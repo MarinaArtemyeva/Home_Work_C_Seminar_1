@@ -1,9 +1,9 @@
 ﻿int a;
-a = 4;
+a = 22;
 int b;
-b = 5;
+b = 3;
 int c;
-c = 78;
+c = 9;
 int max;
 max = 0;
 if (a > b)
@@ -16,7 +16,6 @@ else
 }
 if (max > c)
 {
-    Console.WriteLine(max);
 }
 else
 {
