@@ -1,0 +1,15 @@
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/bin/Debug/net6.0/TASK003_S_1
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/bin/Debug/net6.0/TASK003_S_1.deps.json
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/bin/Debug/net6.0/TASK003_S_1.runtimeconfig.json
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/bin/Debug/net6.0/TASK003_S_1.dll
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/bin/Debug/net6.0/TASK003_S_1.pdb
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.csproj.AssemblyReference.cache
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.AssemblyInfoInputs.cache
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.AssemblyInfo.cs
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.csproj.CoreCompileInputs.cache
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.dll
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/refint/TASK003_S_1.dll
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.pdb
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/TASK003_S_1.genruntimeconfig.cache
+/Users/marinaartemyeva/Home_Work_C_Seminar_1/TASK003_S_1/obj/Debug/net6.0/ref/TASK003_S_1.dll
