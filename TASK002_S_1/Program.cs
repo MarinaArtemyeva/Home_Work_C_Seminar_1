@@ -1,11 +1,18 @@
-﻿int a;
-a = 22;
-int b;
-b = 3;
-int c;
-c = 9;
-int max;
+﻿double a;
+Console.WriteLine("Введите а: ");
+a = Convert.ToDouble(Console.ReadLine());
+
+double b;
+Console.WriteLine("Введите b: ");
+b = Convert.ToDouble(Console.ReadLine());
+
+double c;
+Console.WriteLine("Введите c: ");
+c = Convert.ToDouble(Console.ReadLine());
+
+double max;
 max = 0;
+
 if (a > b)
 {
     max = a;
