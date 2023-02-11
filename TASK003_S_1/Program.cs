@@ -1,10 +1,12 @@
-﻿int a = 4;
-int result;
-if (result = a % 2)
+﻿int A;
+A = 7;
+int C = A % 2;
+
+if (C == 0)
 {
-    System.Console.WriteLine ("YES");
+    Console.WriteLine("YES");
 }
 else
 {
-    System.Console.WriteLine("NO");
+    Console.WriteLine("NO");
 }
