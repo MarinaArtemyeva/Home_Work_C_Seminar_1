@@ -1,8 +1,8 @@
 ﻿int a;
 int b;
 int max;
-a = 5;
-b = 7;
+a = -9;
+b = -3;
 max = 0;
 if (a > b)
 {
